@@ -1,4 +1,4 @@
-# civil-complaint-object-recognition
+# object-recognition
 
 ## Model
 - YOLO v4
